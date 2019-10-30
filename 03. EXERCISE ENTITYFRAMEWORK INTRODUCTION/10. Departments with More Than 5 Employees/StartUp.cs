@@ -22,7 +22,6 @@ namespace SoftUni
         public static string GetDepartmentsWithMoreThan5Employees(SoftUniContext context)
         {
             StringBuilder sb = new StringBuilder();
-            //Format of the output: For each department print it in the format "<DepartmentName> - <ManagerFirstName>  <ManagerLastName>" and for each employee print it in the format "<EmployeeFirstName> <EmployeeFirstName> - <JobTitle>".
 
             var departments = context.Departments
                 .Where(d => d.Employees.Count > 5)

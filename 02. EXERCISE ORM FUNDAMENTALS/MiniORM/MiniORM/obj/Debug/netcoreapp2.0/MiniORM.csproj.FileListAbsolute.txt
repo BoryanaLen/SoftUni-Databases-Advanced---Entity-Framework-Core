@@ -1,0 +1,8 @@
+C:\Users\bariz\OneDrive\Desktop\GitHub\SoftUni-Databases-Advanced-Entity-Framework-Core\MiniORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\Users\bariz\OneDrive\Desktop\GitHub\SoftUni-Databases-Advanced-Entity-Framework-Core\MiniORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\bariz\OneDrive\Desktop\GitHub\SoftUni-Databases-Advanced-Entity-Framework-Core\MiniORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\bariz\OneDrive\Desktop\GitHub\SoftUni-Databases-Advanced-Entity-Framework-Core\MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+C:\Users\bariz\OneDrive\Desktop\GitHub\SoftUni-Databases-Advanced-Entity-Framework-Core\MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\bariz\OneDrive\Desktop\GitHub\SoftUni-Databases-Advanced-Entity-Framework-Core\MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Users\bariz\OneDrive\Desktop\GitHub\SoftUni-Databases-Advanced-Entity-Framework-Core\MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\bariz\OneDrive\Desktop\GitHub\SoftUni-Databases-Advanced-Entity-Framework-Core\MiniORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
