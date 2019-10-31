@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\MiniORM\\MiniORM.App\\MiniORM.App.csproj": {}
+    "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\02. EXERCISE ORM FUNDAMENTALS\\MiniORM\\MiniORM.App\\MiniORM.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\MiniORM\\MiniORM.App\\MiniORM.App.csproj": {
+    "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\02. EXERCISE ORM FUNDAMENTALS\\MiniORM\\MiniORM.App\\MiniORM.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\MiniORM\\MiniORM.App\\MiniORM.App.csproj",
+        "projectUniqueName": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\02. EXERCISE ORM FUNDAMENTALS\\MiniORM\\MiniORM.App\\MiniORM.App.csproj",
         "projectName": "MiniORM.App",
-        "projectPath": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\MiniORM\\MiniORM.App\\MiniORM.App.csproj",
+        "projectPath": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\02. EXERCISE ORM FUNDAMENTALS\\MiniORM\\MiniORM.App\\MiniORM.App.csproj",
         "packagesPath": "C:\\Users\\bariz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\MiniORM\\MiniORM.App\\obj\\",
+        "outputPath": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\02. EXERCISE ORM FUNDAMENTALS\\MiniORM\\MiniORM.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\MiniORM\\MiniORM\\MiniORM.csproj": {
-                "projectPath": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\MiniORM\\MiniORM\\MiniORM.csproj"
+              "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\02. EXERCISE ORM FUNDAMENTALS\\MiniORM\\MiniORM\\MiniORM.csproj": {
+                "projectPath": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\02. EXERCISE ORM FUNDAMENTALS\\MiniORM\\MiniORM\\MiniORM.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\MiniORM\\MiniORM\\MiniORM.csproj": {
+    "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\02. EXERCISE ORM FUNDAMENTALS\\MiniORM\\MiniORM\\MiniORM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\MiniORM\\MiniORM\\MiniORM.csproj",
+        "projectUniqueName": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\02. EXERCISE ORM FUNDAMENTALS\\MiniORM\\MiniORM\\MiniORM.csproj",
         "projectName": "MiniORM",
-        "projectPath": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\MiniORM\\MiniORM\\MiniORM.csproj",
+        "projectPath": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\02. EXERCISE ORM FUNDAMENTALS\\MiniORM\\MiniORM\\MiniORM.csproj",
         "packagesPath": "C:\\Users\\bariz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\MiniORM\\MiniORM\\obj\\",
+        "outputPath": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\02. EXERCISE ORM FUNDAMENTALS\\MiniORM\\MiniORM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

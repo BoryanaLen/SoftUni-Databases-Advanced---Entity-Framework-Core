@@ -4988,11 +4988,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\MiniORM\\MiniORM\\MiniORM.csproj",
+      "projectUniqueName": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\02. EXERCISE ORM FUNDAMENTALS\\MiniORM\\MiniORM\\MiniORM.csproj",
       "projectName": "MiniORM",
-      "projectPath": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\MiniORM\\MiniORM\\MiniORM.csproj",
+      "projectPath": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\02. EXERCISE ORM FUNDAMENTALS\\MiniORM\\MiniORM\\MiniORM.csproj",
       "packagesPath": "C:\\Users\\bariz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\MiniORM\\MiniORM\\obj\\",
+      "outputPath": "C:\\Users\\bariz\\OneDrive\\Desktop\\GitHub\\SoftUni-Databases-Advanced-Entity-Framework-Core\\02. EXERCISE ORM FUNDAMENTALS\\MiniORM\\MiniORM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
