@@ -1,0 +1,8 @@
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM\bin\Debug\netcoreapp3.0\MiniORM.deps.json
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM\bin\Debug\netcoreapp3.0\MiniORM.dll
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM\bin\Debug\netcoreapp3.0\MiniORM.pdb
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM\obj\Debug\netcoreapp3.0\MiniORM.csprojAssemblyReference.cache
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM\obj\Debug\netcoreapp3.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM\obj\Debug\netcoreapp3.0\MiniORM.AssemblyInfo.cs
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM\obj\Debug\netcoreapp3.0\MiniORM.dll
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM\obj\Debug\netcoreapp3.0\MiniORM.pdb

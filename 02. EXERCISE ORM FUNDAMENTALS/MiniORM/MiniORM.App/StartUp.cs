@@ -10,8 +10,6 @@ namespace MiniORM.App
         {
             const string connectionString = @"Server=.\SQLEXPRESS;Database=MiniORM;Integrated Security=True;";
 
-            //const string connectionString = @"Server=.\SQLEXPRESS;Database=MiniORM;Integrated Security=True;";
-
             SoftUniDbContext context = new SoftUniDbContext(connectionString);
 
             context.Employees.Add(new Employee

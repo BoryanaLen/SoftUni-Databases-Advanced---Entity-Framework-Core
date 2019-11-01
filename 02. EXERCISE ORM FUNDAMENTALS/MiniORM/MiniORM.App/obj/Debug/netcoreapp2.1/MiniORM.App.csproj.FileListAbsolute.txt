@@ -1,0 +1,13 @@
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.deps.json
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.runtimeconfig.json
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.runtimeconfig.dev.json
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.dll
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.App.pdb
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.dll
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM.App\bin\Debug\netcoreapp2.1\MiniORM.pdb
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.csprojAssemblyReference.cache
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.AssemblyInfoInputs.cache
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.AssemblyInfo.cs
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.csproj.CopyComplete
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.dll
+C:\Users\bariz\source\repos\02. MiniORM\MiniORM.App\obj\Debug\netcoreapp2.1\MiniORM.App.pdb

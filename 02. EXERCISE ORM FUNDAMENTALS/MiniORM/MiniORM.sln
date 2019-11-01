@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniORM", "MiniORM\MiniORM.csproj", "{86D40984-E71A-4041-ACF5-B3CC333585A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniORM.App", "MiniORM.App\MiniORM.App.csproj", "{8D823309-BA7E-458A-8966-19241D37BB9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniORM.App", "MiniORM.App\MiniORM.App.csproj", "{8D823309-BA7E-458A-8966-19241D37BB9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

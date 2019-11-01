@@ -1,10 +1,12 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-
+﻿
 namespace MiniORM
 {
+    using System;
+    using System.Linq;
+    using System.Collections;
+    using System.Collections.Generic;
+    
+
     public class DbSet<TEntity> : ICollection<TEntity>
         where TEntity : class, new()
     {
